@@ -1,1 +1,1 @@
-# Legal-Q-A-Assistant-RAG-OpenAI-
+# Legal-Q-A-Assistant-RAG-OpenAI
